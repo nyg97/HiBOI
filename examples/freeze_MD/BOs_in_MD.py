@@ -1,0 +1,1 @@
+# Take MD snapshots - freeze structures and make descriptors
